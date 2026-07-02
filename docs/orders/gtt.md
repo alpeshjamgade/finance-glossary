@@ -6,7 +6,7 @@ GTT orders are widely popular among retail investors for setting long-term stop-
 
 ---
 
-## ⚙️ How GTT Works
+## How GTT Works
 
 Unlike standard orders or GTDt orders, a GTT order is stored **locally on the broker's servers** rather than the exchange's order book.
 
@@ -17,7 +17,7 @@ Unlike standard orders or GTDt orders, a GTT order is stored **locally on the br
 
 ---
 
-## 🔄 GTDt vs. GTT: Key Differences
+## GTDt vs. GTT: Key Differences
 
 | Feature | GTDt (Good Till Date) | GTT (Good Till Triggered) |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Unlike standard orders or GTDt orders, a GTT order is stored **locally on the br
 
 ---
 
-## 💡 Common Use Cases
+## Common Use Cases
 
 * **Long-term Stop Loss:** Set a GTT sell trigger slightly below a support level on a stock you hold, protecting you from a sudden market crash over the course of the next few months.
 * **Target Booking:** Set a GTT sell trigger at your target resistance level to lock in profits automatically.

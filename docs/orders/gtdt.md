@@ -4,7 +4,7 @@ A **GTDt (Good Till Date)** order is a specific type of limit order that remains
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 Normally, when you place a standard limit order, it is treated as a **Day Order**. If it isn't filled by the closing bell (e.g., 3:30 PM or 4:00 PM), the exchange automatically cancels it.
 
@@ -27,7 +27,7 @@ graph TD
 
 ---
 
-## ⚖️ Advantages of GTDt Orders
+## Advantages of GTDt Orders
 
 * **Passive Monitoring:** Excellent for long-term investors or swing traders who have a predetermined entry/exit price and do not want to log in daily to manually place orders.
 * **Price Discipline:** Prevents emotional trading. You set your desired purchase price when clear-headed, and let the market come to you.
@@ -35,7 +35,7 @@ graph TD
 
 ---
 
-## ⚠️ Important Considerations & Risks
+## Important Considerations & Risks
 
 > [!WARNING]
 > **Corporate Actions**

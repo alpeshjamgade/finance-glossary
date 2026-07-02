@@ -25,7 +25,7 @@ fi
 
 # Check if remote origin is set
 if ! git remote get-url origin >/dev/null 2>&1; then
-    echo "⚠️ Warning: 'origin' remote is not set."
+    echo "️ Warning: 'origin' remote is not set."
     echo "Please set your GitHub repository remote using:"
     echo "  git remote add origin https://github.com/alpeshjamgade/finance-glossary.git"
     echo "Then run this script again."

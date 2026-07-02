@@ -4,7 +4,7 @@ The **Bid-Ask Spread** is a fundamental concept in finance representing the diff
 
 ---
 
-## 🏛️ Anatomy of the Spread
+## Anatomy of the Spread
 
 In any active stock market, buyers and sellers list their orders in a ledger called the **Order Book**. 
 
@@ -29,7 +29,7 @@ In this scenario:
 
 ---
 
-## ⚡ Market Depth and Liquidity
+## Market Depth and Liquidity
 
 **Market Depth** refers to the market's ability to sustain relatively large market orders without impacting the price. It is visualized by the volume of shares queued at each price point in the order book.
 
@@ -38,7 +38,7 @@ In this scenario:
 
 ---
 
-## 💸 Implication: Slippage and Transaction Cost
+## Implication: Slippage and Transaction Cost
 
 When you place a **Market Order**, you cross the spread to execute immediately:
 * If you place a **Market Buy**, you will buy from the seller at the **Best Ask** (\$100.08 in our example).
